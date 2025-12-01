@@ -1,5 +1,5 @@
 # =============================================================
-# train_patient_dependent.py — EEGWaveNet paper protocol (FINAL + TRAIN BALANCING)
+# train_patient_dependent.py
 # =============================================================
 
 import os
@@ -138,5 +138,6 @@ with open(CSV_PATH, 'a', newline='') as f:
     if not file_exists:
         writer.writerow(header)
     writer.writerow(row)
+
 
 print(f"\n✅ Saved metrics for {PATIENT} to {CSV_PATH}")
