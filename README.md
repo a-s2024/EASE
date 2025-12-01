@@ -111,7 +111,7 @@ CHB-MIT Scalp EEG Dataset
 
 ---
 
-## Best Results (EfficientNet-B0 + LSTM, after LLM optimization)
+## Best Results (EfficientNet-B0 + LSTM, after LLM-guided Optuna optimization)
 
 * Accuracy: **98.27%**
 * Sensitivity: **97.98%**
