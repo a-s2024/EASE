@@ -117,11 +117,3 @@ CHB-MIT Scalp EEG Dataset
 * Accuracy: **98.27%**
 * Sensitivity: **97.98%**
 * Specificity: **98.42%**
-
----
-
-## Authors
-
-Jana Ramzi Ali, Shafaa Omer Al-Baiti, Ayesha Siddiqua, Nadia Mohamed Elsayed
-
-Supervised by: Prof. Abbes Amira and Co-supervised by: Dr. Ayad Turky
